@@ -18,5 +18,5 @@ Go to http://localhost:3000/swagger
 
 ## Attribution
 
-Contains [code from A.K. Bejaoui](https://github.com/AhmedCommando/node-typescript-webpack).
+Contains code from [A.K. Bejaoui](https://github.com/AhmedCommando/node-typescript-webpack).
 
