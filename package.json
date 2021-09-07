@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf build/",
-    "build": "tsc",
+    "build": "tsoa spec-and-routes && tsc",
     "start": "node build/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
